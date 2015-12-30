@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "查看时间",
+  "version": "1.0",
+  "description": "查看时间",
+  "icons": {
+    "16": "IMAGES/ICON12.jpg",
+    "48": "IMAGES/ICON18.jpg",
+    "128": "IMAGES/ICON18.jpg"
+  },
+  "browser_action": {
+    "default_icon": {
+      "19": "IMAGES/ICON18.jpg",
+      "38": "IMAGES/ICON18.jpg"
+    },
+    "default_title": "查看时间",
+    "default_popup": "popup.html"
+  }
+}
