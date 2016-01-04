@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7364" started-at="2016-01-04T06:12:42Z" finished-at="2016-01-04T06:12:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7364" started-at="2016-01-04T06:12:42Z" finished-at="2016-01-04T06:12:49Z">
+      <class name="com.demo.seleniumandroid.demoseleniumTestng">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demo.seleniumandroid.demoseleniumTestng@6956de9]" name="setUp" is-config="true" duration-ms="420" started-at="2016-01-04T14:12:42Z" finished-at="2016-01-04T14:12:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testBaidu()[pri:0, instance:com.demo.seleniumandroid.demoseleniumTestng@6956de9]" name="testBaidu" duration-ms="6932" started-at="2016-01-04T14:12:42Z" finished-at="2016-01-04T14:12:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBaidu -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demo.seleniumandroid.demoseleniumTestng@6956de9]" name="tearDown" is-config="true" duration-ms="6" started-at="2016-01-04T14:12:49Z" finished-at="2016-01-04T14:12:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.demo.seleniumandroid.demoseleniumTestng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
